@@ -1,3 +1,3 @@
 # web
 drxnk.co public website
-<http://drxnkco.github.io/web>
+<http://drxnk.co/>
